@@ -58,3 +58,14 @@ from square import perimeter
 
 print(perimeter(5))
 ```
+### `rectangle.area(a, b)`
+
+Принимает стороны прямоугольника `a` и `b` и возвращает его площадь.
+
+**Пример вызова:**
+
+```python
+from rectangle import area
+
+print(area(4, 5))
+```
