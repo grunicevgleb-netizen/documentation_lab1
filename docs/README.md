@@ -36,3 +36,14 @@ from circle import perimeter
 
 print(perimeter(5))
 ```
+### `square.area(a)`
+
+Принимает сторону квадрата `a` и возвращает площадь квадрата.
+
+**Пример вызова:**
+
+```python
+from square import area
+
+print(area(123))
+```
