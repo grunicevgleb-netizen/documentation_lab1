@@ -25,3 +25,14 @@ from circle import area
 
 print(area(5))
 ```
+### `circle.perimeter(r)`
+
+Принимает радиус круга `r` и возвращает длину окружности.
+
+**Пример вызова:**
+
+```python
+from circle import perimeter
+
+print(perimeter(5))
+```
