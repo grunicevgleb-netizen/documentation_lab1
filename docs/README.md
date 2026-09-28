@@ -69,3 +69,14 @@ from rectangle import area
 
 print(area(4, 5))
 ```
+### `rectangle.perimeter(a, b)`
+
+Принимает стороны прямоугольника `a` и `b` и возвращает его периметр.
+
+**Пример вызова:**
+
+```python
+from rectangle import perimeter
+
+print(perimeter(4, 5))
+```
