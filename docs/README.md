@@ -47,3 +47,14 @@ from square import area
 
 print(area(123))
 ```
+### `square.perimeter(a)`
+
+Принимает сторону квадрата `a` и возвращает периметр квадрата.
+
+**Пример вызова:**
+
+```python
+from square import perimeter
+
+print(perimeter(5))
+```
